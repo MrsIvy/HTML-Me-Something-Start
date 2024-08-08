@@ -23,12 +23,11 @@
             text-align: center; 
           }
 
-        /* Additional styling for the image */
+       
         img {
             max-width: 100%;
             height: auto;
             border: 2px solid #ccc;
             border-radius: 5px;
         }
-    </style>
-/* Write your CSS here! */
+    
